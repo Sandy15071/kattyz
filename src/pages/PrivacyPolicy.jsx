@@ -3,7 +3,7 @@ import { LegalPage } from '../components/layout/LegalPage';
 
 export function PrivacyPolicy() {
   return (
-    <LegalPage eyebrow="Legal" title="Privacy Policy" updated="11 September 2026">
+    <LegalPage eyebrow="Legal" title="Privacy Policy" description="Read the Katty’z Privacy Policy covering website technical data, embedded maps, external ordering links and cookies." updated="11 September 2026">
       <p>This policy explains how information may be handled when you visit the Katty’z website.</p>
 
       <h2>Information we collect</h2>

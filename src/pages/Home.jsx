@@ -4,6 +4,7 @@ import { ArrowRight, MapPin } from 'lucide-react';
 import { ProductCard } from '../components/ui/ProductCard';
 import { OutletPicker } from '../components/ui/OutletPicker';
 import { fallbackMenuItems, fallbackCategories } from '../data/fallbackData';
+import { PageMeta } from '../components/ui/PageMeta';
 
 export function Home() {
   const [pickerOpen, setPickerOpen] = useState(false);
@@ -11,6 +12,7 @@ export function Home() {
   const hero = featured[0];
   return (
     <main className="min-w-0 flex-1 bg-brand-white">
+      <PageMeta title="Katty’z | Burgers, Wraps & Crispy Favourites" description="Explore Katty’z burgers, wraps, Korean corn dogs and crispy favourites. Choose an outlet in Thane or Navi Mumbai and order online." noIndex />
       <section className="overflow-hidden bg-brand-violet text-white">
         <div className="mx-auto grid max-w-[1400px] items-center gap-8 px-5 py-10 md:px-8 md:py-16 lg:grid-cols-[0.9fr_1.1fr] lg:gap-16">
           <div className="relative z-10">

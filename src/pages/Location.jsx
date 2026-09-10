@@ -1,6 +1,7 @@
 ﻿import React, { useState } from 'react';
 import { MapPin, Phone, ExternalLink } from 'lucide-react';
 import { outlets } from '../data/outlets';
+import { PageMeta } from '../components/ui/PageMeta';
 
 function LocationCard({ outlet }) {
   const [photoFailed, setPhotoFailed] = useState(false);
@@ -30,6 +31,7 @@ function LocationCard({ outlet }) {
 export function Location() {
   return (
     <main className="min-w-0 flex-1 bg-brand-white">
+      <PageMeta title="Katty’z Outlets | Thane & Kharghar Directions" description="Find Katty’z outlets in Hiranandani Estate, Vasant Vihar and Kharghar. Get directions, contact details and outlet-specific ordering links." noIndex />
       <header className="bg-[#f2efff] px-5 py-10 md:px-8 md:py-14"><div className="mx-auto max-w-[1400px]"><p className="text-sm font-bold uppercase tracking-[0.18em] text-brand-violet">Thane & Navi Mumbai</p><h1 className="mt-2 text-5xl font-semibold md:text-7xl">Find your Katty’z</h1><p className="mt-3 max-w-xl text-lg text-gray-600">Choose an outlet for directions, contact details and online ordering.</p></div></header>
       <div className="mx-auto max-w-[1400px] space-y-10 px-4 py-10 md:px-8 md:py-16">{outlets.map(outlet => <LocationCard key={outlet.id} outlet={outlet}/>)}</div>
     </main>

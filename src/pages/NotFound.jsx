@@ -1,10 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, MapPin } from 'lucide-react';
+import { PageMeta } from '../components/ui/PageMeta';
 
 export function NotFound() {
   return (
     <main className="relative flex min-h-[70vh] flex-1 items-center overflow-hidden bg-brand-violet px-5 py-16 text-white md:px-8">
+      <PageMeta title="Page Not Found | Katty’z" description="The requested Katty’z page could not be found. Browse the menu or find your nearest outlet." noIndex />
       <div aria-hidden="true" className="absolute -right-20 -top-20 h-72 w-72 rounded-full bg-brand-yellow/15" />
       <div aria-hidden="true" className="absolute -bottom-32 -left-20 h-96 w-96 rounded-full border-[60px] border-white/5" />
       <div className="relative mx-auto grid w-full max-w-[1100px] items-center gap-10 lg:grid-cols-[.75fr_1.25fr]">

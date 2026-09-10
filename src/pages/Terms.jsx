@@ -3,7 +3,7 @@ import { LegalPage } from '../components/layout/LegalPage';
 
 export function Terms() {
   return (
-    <LegalPage eyebrow="Legal" title="Terms & Conditions" updated="11 September 2026">
+    <LegalPage eyebrow="Legal" title="Terms & Conditions" description="Read the Katty’z Terms & Conditions for website use, menu information, orders, dietary guidance and third-party services." updated="11 September 2026">
       <p>These terms apply to your use of the Katty’z website. By using the website, you agree to these terms.</p>
 
       <h2>Website information</h2>

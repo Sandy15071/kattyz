@@ -3,6 +3,7 @@ import { useSearchParams } from 'react-router-dom';
 import { fallbackMenuItems, fallbackCategories } from '../data/fallbackData';
 import { ProductCard } from '../components/ui/ProductCard';
 import { OutletPicker } from '../components/ui/OutletPicker';
+import { PageMeta } from '../components/ui/PageMeta';
 
 export function Menu() {
   const [params, setParams] = useSearchParams();
@@ -31,6 +32,7 @@ export function Menu() {
     });
   return (
     <main className="min-w-0 flex-1 bg-brand-white pb-16">
+      <PageMeta title="Katty’z Menu | Burgers, Wraps, Corn Dogs & More" description="Browse the Katty’z menu for burgers, wraps, Korean corn dogs, crispy chicken, sides, meal bowls and drinks. Prices and availability are confirmed when ordering." noIndex />
       <header className="bg-brand-violet px-5 py-10 text-white md:px-8 md:py-14"><div className="mx-auto max-w-[1400px]"><p className="text-sm font-bold uppercase tracking-[0.18em] text-brand-yellow">Burgers · wraps · crispy favourites</p><h1 className="mt-2 text-5xl font-semibold md:text-7xl">Our menu</h1><p className="mt-3 max-w-xl text-lg text-white/75">Pick a favourite, choose your nearest outlet and order on Zomato.</p></div></header>
       <div className="mx-auto max-w-[1400px] min-w-0 px-4 md:px-8">
         <div className="sticky top-[72px] z-40 -mx-4 mb-7 border-b border-brand-dark/10 bg-brand-white/95 px-4 py-3 backdrop-blur-md md:top-20 md:mx-0 md:px-0">

@@ -1,9 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { PageMeta } from '../ui/PageMeta';
 
-export function LegalPage({ eyebrow, title, updated, children }) {
+export function LegalPage({ eyebrow, title, description, updated, children }) {
   return (
     <main className="min-w-0 flex-1 bg-brand-white">
+      <PageMeta title={`${title} | Katty’z`} description={description} noIndex />
       <header className="bg-[#f2efff] px-5 py-10 md:px-8 md:py-14">
         <div className="mx-auto max-w-4xl">
           <p className="text-sm font-bold uppercase tracking-[0.18em] text-brand-violet">{eyebrow}</p>
