@@ -1,0 +1,789 @@
+[
+  {
+    "category": "Korean Corn Dog",
+    "name": "Classic Cheese Corn Dog",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-not-vegan",
+      "delivery-enabled",
+      "dt-breakfast",
+      "rating_4"
+    ]
+  },
+  {
+    "category": "Korean Corn Dog",
+    "name": "Periperi Cheese Corn Dg",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-not-vegan",
+      "delivery-enabled",
+      "rating_4"
+    ]
+  },
+  {
+    "category": "Korean Corn Dog",
+    "name": "Cheese Melt Veg Corn Dog",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-not-vegan",
+      "delivery-enabled",
+      "dt-breakfast"
+    ]
+  },
+  {
+    "category": "Korean Corn Dog",
+    "name": "Classic Chicken Corn Dog",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled",
+      "dt-breakfast"
+    ]
+  },
+  {
+    "category": "Korean Corn Dog",
+    "name": "Periperi Chicken Corn Dog",
+    "desc": "Mozzarella cheese [half] and chicken sausage [half] in our crispy batter with our signature peri peri seasoning, served with a peri peri dip.",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "sf-spicy",
+      "delivery-enabled",
+      "dt-breakfast",
+      "rating_4"
+    ]
+  },
+  {
+    "category": "Korean Corn Dog",
+    "name": "Cheese Melt Chicken Corn Dog",
+    "desc": "Mozzarella cheese [half] and chicken sausage [half] in a crispy batter, served with our house molten cheese sauce.",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled",
+      "dt-breakfast",
+      "rating_4"
+    ]
+  },
+  {
+    "category": "Meal Bowl",
+    "name": "Mac N Cheese Crispy Chicken",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled",
+      "rating_4"
+    ]
+  },
+  {
+    "category": "Meal Bowl",
+    "name": "Mac N Cheese Paneer",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-not-vegan",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Snacky Veg Wrap",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/ec4/5776c382a33bb24f01f8412394e4fec4.jpeg",
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Snacky Tandoori Aloo Wrap",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/774/8d9e703601f472e1584cb89d78ee9774.jpeg",
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Crispy Paneer Wrap",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/a53/778efe4ecb0cd8d757e2a7ee24b00a53.jpeg",
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-not-vegan",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Crispy Paneer Peri Peri Wrap",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-spicy",
+      "sf-not-vegan",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Cheese Melt Veg Wrap",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/9e3/dd18d47970bbf184ee04e0a62aebf9e3.jpeg",
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-not-vegan",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Butter Paneer Wrap",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/9eb/81fa8ee90c8f713fa9f857f2046039eb.jpeg",
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-not-vegan",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Tandoori Paneer Tikka Wrap",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/627/7cb352ad73b8db102c874cd8d9dda627.jpeg",
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-not-vegan",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Spicy Potato Wrap",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/98e/e1abb38fc136521600ec78136ccc298e.jpeg",
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-spicy",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Egg Masala Wrap",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "egg",
+      "services",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Tandoori Chicken Tikka Wrap",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/c3a/02c15fe1c030087a25004e65a23bfc3a.jpeg",
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled",
+      "rating_4"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Cheese Melt Chicken Wrap",
+    "desc": "Crispy coated strips of juicy chicken topped with coleslaw, crunchy lettuce, onions, bell peppers, mozzarella cheese, liquid cheese and our house cheddar cheese sauce and hot sauce wrapped in a panini [10 inches] pressed tortilla.",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/6c6/6c8dc789c2707e38181a2392afebb6c6.jpeg",
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "sf-spicy",
+      "delivery-enabled",
+      "rating_4"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Crispy Chicken Wrap",
+    "desc": "Crispy coated strips of juicy chicken topped with coleslaw, crunchy lettuce, onions, bell peppers, tangy tom mayo and smokey chipotle sauce in a panini [10 inches] pressed tortilla.",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/463/5b11718c33759226a6981ff771914463.jpeg",
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "low-calorie",
+      "services",
+      "low-fat",
+      "lose-weight",
+      "sf-spicy",
+      "delivery-enabled",
+      "rating_4"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Butter Chicken Wrap",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/6c6/777037bb7a06d92c142be061dbb796c6.jpeg",
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Texas Barbeque Chicken Wrap",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/914/a69532ad5223d75f0cc48eeb55f17914.jpeg",
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Peri Peri Chicken Wrap",
+    "desc": "Crispy coated chunks of juicy chicken seasoned with our signature peri peri seasoning topped with coleslaw, crunchy lettuce, onions, bell peppers and spicy peri peri sauce in a panini [10 inches] pressed tortilla.",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "sf-spicy",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Wraps",
+    "name": "Snacky Chicken Wrap",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/21c/a509ae39e4fe9fd4e6d4b575655c721c.jpeg",
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled",
+      "rating_4"
+    ]
+  },
+  {
+    "category": "Burgers",
+    "name": "Chicken Gochujang Burger",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "sf-spicy",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Burgers",
+    "name": "Nashville Chicken Burger",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled",
+      "rating_4"
+    ]
+  },
+  {
+    "category": "Burgers",
+    "name": "Potato Chilli Cheese",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/b1a/6b60d58e00caa9a73580dac0f6ffcb1a.jpeg",
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-not-vegan",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Burgers",
+    "name": "Chipotle Veg Burger",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/891/841a6336410bb953b5e62fc025612891.jpeg",
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-spicy",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Burgers",
+    "name": "Classic Paneer Supreme Burger",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/9ee/89b2bb532e4855825837d2779959d9ee.jpeg",
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-not-vegan",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Burgers",
+    "name": "Paneer Supreme Periperi Burger",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-not-vegan",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Burgers",
+    "name": "Snacky Chicken Burger",
+    "desc": "A small fried chicken patty with crunchy lettuce, onion and our house chipotle and Thousand Island sauce [classic] or the flavor of your choice.",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/463/b77a271cbaab02026cfe7903803d5463.jpeg",
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "sf-spicy",
+      "delivery-enabled",
+      "rating_4"
+    ]
+  },
+  {
+    "category": "Burgers",
+    "name": "Southern Style Fried Chicken Burger",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/285/6af813de74a316a250b6337cf77f2285.jpeg",
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled",
+      "rating_4"
+    ]
+  },
+  {
+    "category": "Burgers",
+    "name": "Cheese Melt Chicken Burger",
+    "desc": "A thick and juicy fried chicken patty topped with with crunchy lettuce, onion and our house hot sauce and Cheddar cheese sauce.",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/c00/562299982a32dfe72e2bdcc943cafc00.jpeg",
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "sf-spicy",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Burgers",
+    "name": "Grilled Chicken Burger",
+    "desc": "Soft and juicy grilled chicken patty topped with with crunchy lettuce, onion and our house smokey mayo and barbeque sauce.",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Burgers",
+    "name": "Smashed Chicken Burger",
+    "desc": "Soft and juicy grilled chicken patties with a slice of cheese between them topped with with crunchy lettuce, onion and our house smokey mayo, barbeque and sriracha sauces.",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "sf-spicy",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Fried Chicken",
+    "name": "Chilli Garlic Chicken Tenders",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Fried Chicken",
+    "name": "Crispy Fried Chicken Strips",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Fried Chicken",
+    "name": "Crispy Fried Chilli Garlic Chicken Wings",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Fried Chicken",
+    "name": "Crispy Fried Peri Peri Chicken Wings",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "sf-spicy",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Fried Chicken",
+    "name": "Korean Chicken Wings",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Fried Chicken",
+    "name": "Periperi Chicken Tenders",
+    "desc": "Large juicy boneless chicken pieces with a crispy exterior dusted with our signature peri peri seasoning with a side of ranch",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/faa/c5dc674c2dde5c9e21d361fca8b03faa.jpeg",
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "sf-spicy",
+      "delivery-enabled",
+      "rating_4"
+    ]
+  },
+  {
+    "category": "Fried Chicken",
+    "name": "Saucy Fried Bbq Chicken Wings",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Fried Chicken",
+    "name": "Saucy Fried Fiery Chicken Wings",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "sf-spicy",
+      "delivery-enabled"
+    ]
+  },
+  {
+    "category": "Sides",
+    "name": "French Fries",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/adf/7a95b476820436df03c4a812b0439adf.jpeg",
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "navratri-special",
+      "services",
+      "delivery-enabled",
+      "dt-sides"
+    ]
+  },
+  {
+    "category": "Sides",
+    "name": "Peri Peri French Fries",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/8b7/59db31474300a81e44f0f36e90c4d8b7.jpeg",
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "navratri-special",
+      "services",
+      "sf-spicy",
+      "delivery-enabled",
+      "dt-sides",
+      "rating_4"
+    ]
+  },
+  {
+    "category": "Sides",
+    "name": "Cheesy Melt Saucy Fries",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-not-vegan",
+      "delivery-enabled",
+      "dt-sides"
+    ]
+  },
+  {
+    "category": "Sides",
+    "name": "Potato Pops",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "delivery-enabled",
+      "dt-sides"
+    ]
+  },
+  {
+    "category": "Sides",
+    "name": "Paneer Pops",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-not-vegan",
+      "delivery-enabled",
+      "dt-sides"
+    ]
+  },
+  {
+    "category": "Sides",
+    "name": "Chicken Peri Peri Pops Regular",
+    "desc": "",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/e8a/a867177fade71af9d636e5b2ac027e8a.jpeg",
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "sf-spicy",
+      "delivery-enabled",
+      "dt-sides",
+      "rating_4"
+    ]
+  },
+  {
+    "category": "Sides",
+    "name": "Cheese Melt Chicken Pops",
+    "desc": "Small chunks of boneless fried chicken dusted with our signature peri peri seasoning in our house cheddar cheese sauce topped with cheese.",
+    "imageUrl": "https://b.zmtcdn.com/data/dish_photos/e94/8769d2c873da89f3092cc48ea7731e94.jpeg",
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "sf-spicy",
+      "delivery-enabled",
+      "dt-sides"
+    ]
+  },
+  {
+    "category": "Salad",
+    "name": "Classic Paneer Salad",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-not-vegan",
+      "delivery-enabled",
+      "dt-breakfast"
+    ]
+  },
+  {
+    "category": "Salad",
+    "name": "Honey Mustard Paneer Salad",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-not-vegan",
+      "delivery-enabled",
+      "dt-breakfast"
+    ]
+  },
+  {
+    "category": "Salad",
+    "name": "Peri Peri Paneer Salad",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-spicy",
+      "sf-not-vegan",
+      "delivery-enabled",
+      "dt-breakfast"
+    ]
+  },
+  {
+    "category": "Salad",
+    "name": "Classic Chicken Salad",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled",
+      "dt-breakfast"
+    ]
+  },
+  {
+    "category": "Salad",
+    "name": "Honey Mustard Chicken Salad",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "delivery-enabled",
+      "dt-breakfast"
+    ]
+  },
+  {
+    "category": "Salad",
+    "name": "Peri Peri Chicken Salad",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": false,
+    "tags": [
+      "non-veg",
+      "services",
+      "sf-spicy",
+      "delivery-enabled",
+      "dt-breakfast"
+    ]
+  },
+  {
+    "category": "Drinks (Beverages)",
+    "name": "Green Apple",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "delivery-enabled",
+      "dt-beverages"
+    ]
+  },
+  {
+    "category": "Drinks (Beverages)",
+    "name": "Mojito",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "sf-alcohol",
+      "delivery-enabled",
+      "dt-beverages"
+    ]
+  },
+  {
+    "category": "Drinks (Beverages)",
+    "name": "Watermelon",
+    "desc": "",
+    "imageUrl": null,
+    "isVeg": true,
+    "tags": [
+      "veg",
+      "services",
+      "reusable-confidence-score-1",
+      "delivery-enabled",
+      "dt-beverages"
+    ]
+  }
+]

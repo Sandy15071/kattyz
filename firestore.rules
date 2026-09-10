@@ -1,0 +1,17 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /restaurantInfo/{docId} {
+      allow read: if true;
+      allow write: if false; // manage via Firebase console or admin SDK only
+    }
+    match /menuCategories/{docId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /menuItems/{docId} {
+      allow read: if true;
+      allow write: if false;
+    }
+  }
+}
